@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "price": null,
+    "market_cap": null
+  },
+  {
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "price": null,
+    "market_cap": null
+  },
+  {
+    "name": "Tether",
+    "symbol": "USDT",
+    "price": null,
+    "market_cap": null
+  },
+  {
+    "name": "BNB",
+    "symbol": "BNB",
+    "price": null,
+    "market_cap": null
+  },
+  {
+    "name": "XRP",
+    "symbol": "XRP",
+    "price": null,
+    "market_cap": null
+  },
+  {
+    "name": "Solana",
+    "symbol": "SOL",
+    "price": null,
+    "market_cap": null
+  },
+  {
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "price": null,
+    "market_cap": null
+  },
+  {
+    "name": "Cardano",
+    "symbol": "ADA",
+    "price": null,
+    "market_cap": null
+  },
+  {
+    "name": "Dogecoin",
+    "symbol": "DOGE",
+    "price": null,
+    "market_cap": null
+  },
+  {
+    "name": "Toncoin",
+    "symbol": "TON",
+    "price": null,
+    "market_cap": null
+  }
+]
