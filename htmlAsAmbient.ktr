@@ -440,7 +440,7 @@
     <hop>
       <from>Group by</from>
       <to>SetStringAmbient</to>
-      <enabled>Y</enabled>
+      <enabled>N</enabled>
     </hop>
     <hop>
       <from>Text file input</from>
@@ -520,7 +520,7 @@
       </output>
     </remotesteps>
     <GUI>
-      <xloc>384</xloc>
+      <xloc>400</xloc>
       <yloc>304</yloc>
       <draw>Y</draw>
     </GUI>
@@ -564,7 +564,7 @@
     <length>Characters</length>
     <add_to_result_filenames>Y</add_to_result_filenames>
     <file>
-      <name>${Internal.Entry.Current.Directory}/../data/output/Football.html</name>
+      <name>${Internal.Entry.Current.Directory}/../data/output/STUDENT.html</name>
       <filemask/>
       <exclude_filemask/>
       <file_required>N</file_required>
